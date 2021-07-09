@@ -43,8 +43,9 @@ automobiliai.redaguoti(3, 'mitsubishi');
 
 automobiliai.spausdinti();
 
-/*automoboliai.pasalinti(0);
+automobiliai.pasalinti(1);
+automobiliai.pasalinti(2);
+automobiliai.pasalinti(3);
+
 automobiliai.spausdinti();
-// 1. volvo
-*/
 

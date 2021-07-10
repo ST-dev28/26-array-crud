@@ -15,7 +15,7 @@ automobiliai.prideti('bmw');
 automobiliai.prideti('opel');
 automobiliai.prideti('nissan');
 
-//console.log(automobiliai); // Sarasas {}
+console.log(automobiliai); // Sarasas {}
 
 automobiliai.spausdinti();
 // terminale reikia isspausdinti visus automobilius tokiu principu:
@@ -31,7 +31,7 @@ automobiliai.spausdinti();
 // ===============
 
 automobiliai.redaguoti(0, 'mazda');
-// kurio automobilio pavadinima norim keisti? 
+// kurio automobilio pavadinima norim keisti?
 // 0 (pirmas parametras) rodo saraso vieta, ka norime keisti
 // antras parametras rodo, i ka norim ji keisti
 
@@ -48,4 +48,3 @@ automobiliai.pasalinti(2);
 automobiliai.pasalinti(3);
 
 automobiliai.spausdinti();
-
